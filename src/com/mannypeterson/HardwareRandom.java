@@ -1,4 +1,3 @@
-package com.mannypeterson;
 /*
 *
 * True Random Number Generator (TRNG)
@@ -18,6 +17,8 @@ package com.mannypeterson;
 * along with this program.  If not, see <https://www.gnu.org/licenses/>.
 *
 */
+package com.mannypeterson;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
